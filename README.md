@@ -43,7 +43,7 @@ Program Requirements
 
   [Factorial: wikipedia](https://en.wikipedia.org/wiki/Factorial)
 
-  ```
+```
   int fac1(int n) {
    if (n <= 0)
       return 1;

@@ -8,5 +8,4 @@ cd to folder and run program:
 
 ```
 py pascal.py
-
 ```
